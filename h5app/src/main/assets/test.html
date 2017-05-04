@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Android_H5_Demo</title>
+	<meta charset="utf-8">
+	<script type="text/javascript">
+		function sum(a,b) {
+			// body...
+			return a+b;
+		}
+		function android_method() {
+			// body...
+			var value = window.android.show();
+			document.getElementById('p').innerHTML = value;
+		}
+	</script>
+</head>
+<body>
+<button onclick="android_method()">调用android方法</button><br/>
+<a href="http://www.baidu.com">跳转百度</a>
+<p id="p"></p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WeexDemoProject\\h5app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WeexDemoProject\\h5app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myGithub\\MyApplication\\h5app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\myGithub\\MyApplication\\h5app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
